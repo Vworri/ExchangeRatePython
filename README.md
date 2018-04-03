@@ -4,7 +4,8 @@ This API is set up to return exchange rates and evaluate currency exchanges as w
 	1. pull from github: https://github.com/Vworri/ExchangeRatePython.git
 	2. make sure you have python 3.6 installed
 	3. pip instal -r requirements.txt (inside app directory)
-	4. run python(3) app.py
+	4. run python(3) app.py 
+	5. The server should be running of port 5000
 ## Exchange
 There are only two required fields in the query:
 origin: the initial currencry from which you would like to exchange
