@@ -19,6 +19,7 @@ The optional parameters follow:
 Example Urls:
 http://127.0.0.1:5000/api?dest=usd&orig=aud
 ### Response
+
 ```javascript
     {
 	"destination": "USD",
@@ -26,12 +27,13 @@ http://127.0.0.1:5000/api?dest=usd&orig=aud
 	"originalAmount": 1,
 	"rate": 0.7683337490646046,
 	"rateDate": "2018-03-29",
-	"resultAmount": "$0.77"}
-    ```
+	"resultAmount": "$0.77"} 
+```
+
 
 http://127.0.0.1:5000/api?date=2018-04-02&dest=usd&orig=aud&amount=4
 
-```javascript
+``` javascript
     {
 	"destination": "USD",
 	"origin": "AUD",
