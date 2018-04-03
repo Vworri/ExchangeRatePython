@@ -1,5 +1,5 @@
 # Python Currency Exchange API
-This API is set up to return exchange rates and evaluate currency exchanges as well as keep a local store od data up-to-date.
+This API is set up to return exchange rates and evaluate currency exchanges as well as keep a local store of data up-to-date.
 ##  Getting started API:
 	1. pull from github: https://github.com/Vworri/ExchangeRatePython.git
 	2. make sure you have python 3.6 installed
