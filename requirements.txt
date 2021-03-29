@@ -35,7 +35,7 @@ Pillow==4.1.1
 psutil==5.0.1
 pycrypto==2.6.1
 pycups==1.9.73
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.24.1
 python-apt==1.4.0b3
 python-debian==0.1.30
